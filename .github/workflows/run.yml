@@ -26,7 +26,7 @@ jobs:
         pip install -r requirements.txt
         
         user='18640164136'
-        pwd='p18640164136'
+        pwd='My1403251'
         
         user_list=()
         pwd_list=()
