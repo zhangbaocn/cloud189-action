@@ -47,7 +47,7 @@ jobs:
         pwd_num=${#pwd_list[*]}
 
         if [ $user_num != $pwd_num ];then
-        echo "账号和密码个数不对应"
+        echo "账号和密码个数不对应。"
         exit 1
         else
         echo "共有 $user_num 个账号，即将开始签到"
